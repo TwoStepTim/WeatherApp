@@ -9,7 +9,7 @@ git init
 git add -A
 git commit -m "New Deployment"
 
-git push -f https://github.com/TwoStepTim/WeatherApp.git master:gh-pages
+git push -f https://github.com/TwoStepTim/Weather-App.git master:gh-pages
 
 cd -
 echo "Deployment successful!"
